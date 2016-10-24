@@ -1,2 +1,2 @@
 # Thinkful-FEWD-v6
-The Thinkful Frontend Web Development version 6 
+How to Use Git and GitHub Like a Pro
