@@ -12,6 +12,15 @@
 	<li><a href="https://api.jquery.com/parent/">.parent</a></li>
 	<li><a href="https://jsbin.com/finayaf/2/edit">JSBin Traversal</a></li>
 	<li><a href="https://api.jquery.com/category/manipulation/">JQuery manipulation methods</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/Events">Events</a></li>
+	<li><a href="https://learn.jquery.com/events/event-basics/">Interface for setting up event listeners</a></li>
+	<li><a href="https://jsbin.com/ciqade/1/edit">JSBin basic event handling</a></li>
+	<li><a href="https://api.jquery.com/ready/">JQuery .ready</a></li>
+	<li><a href="https://jsbin.com/jeriye/1/edit">JSBIN event objects</a></li>
+	<li><a href="https://jsbin.com/rapoxu/3/edit">event.currentTarget</a></li>
+	<li><a href="https://jsbin.com/zufere/2/edit">JSBIn the this keyword</a></li>
+	<li><a href="https://learn.jquery.com/events/event-delegation/">Event delegation</a></li>
+
 </ul>
 
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">DOM</a></li>
